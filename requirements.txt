@@ -13,3 +13,4 @@ protobuf==4.23.2
 accelerate==0.20.3
 tokenizers>=0.13.3
 pydantic==1.10.7
+timm
